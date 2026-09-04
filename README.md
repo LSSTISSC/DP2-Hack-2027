@@ -4,7 +4,7 @@ Materials for ISSC DP2 Hackathon, January 2027 at CMU
 ## How to propose topics
 
 If you have an idea for something to hack on during the week, please go ahead and 
-propose your hack with [a new github issue](https://github.com/LSSTISSC/DP2-Hack-2027/issues/new?template=new-general-sprint.md).
+propose your hack with [a new github issue](https://github.com/LSSTISSC/DP2-Hack-2027/issues/new?template=new_hack_topic.md).
 
 If you'd like to request a tutorial on tools or statistics topics (or volunteer to run one),
 propose it with [a different new github issue](https://github.com/LSSTISSC/DP2-Hack-2027/issues/new?template=tutorial_request.md).
