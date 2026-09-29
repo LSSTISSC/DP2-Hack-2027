@@ -18,7 +18,9 @@ Contacts:
 
 ## Resources and skills needed
 
-[describe the resources (software, skills, data, or just enthusiasm) needed for this project]
+[describe the resources (software, data, expertise, or just enthusiasm) needed for this project]
+- Types of DP2 data: catalogs, images, time series, alerts
+- Relevant [LINCC-Frameworks software tools](https://lsstdiscoveryalliance.org/lsst-discovery-alliance-programs/lincc-frameworks/lincc-areas-focus/): HATS, Hyrax, LightCurveLynx, RAIL, etc.
 
 ## Detailed description
 
