@@ -1,17 +1,16 @@
 ---
-name: New Hack Topic
-about: 'Template to propose a new hack topic '
+name: New Hack Project
+about: 'Template to propose a new hack project'
 title: "Your topic "
 assignees: ''
 
 ---
 
-# [Your Hack Topic]
+# [Your Hack Project]
 
 [One sentence description]
 
 Contacts: 
-GitHub repo:
 
 ## Goals and deliverable
 
@@ -24,3 +23,5 @@ GitHub repo:
 ## Detailed description
 
 [add additional details  about the project]
+
+Potentially relevant tutorial(s) from [published demo notebooks](https://github.com/lsst/tutorial-notebooks):
